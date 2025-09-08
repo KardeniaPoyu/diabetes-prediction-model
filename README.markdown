@@ -65,4 +65,4 @@ This project implements a deep learning model to predict diabetes using the Pima
 MIT License. Free to use and modify with attribution.
 
 ## Contact
-For questions, contact [Your Name] at [Your Email].
+For questions, contact me at yirongyiburong@gmail.com.
